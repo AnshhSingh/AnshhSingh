@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=AnshhSingh&color=blueviolet&style=plastic)
 <!--
 **AnshhSingh/AnshhSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+```<span style="color:blue">sometext</span>```
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
