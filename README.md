@@ -9,7 +9,8 @@
 div {
   background-color: rgba(255, 255, 255, 0.35)   /* 35% opaque white */;
   padding: 0.25em;
-}```
+}
+```
 <!--
 **AnshhSingh/AnshhSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
