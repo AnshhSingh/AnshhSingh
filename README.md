@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i am just a rookie
 
 <!--
 **AnshhSingh/AnshhSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
