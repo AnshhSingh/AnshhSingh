@@ -1,4 +1,4 @@
-### Hi there i am just a rookie
+### Hey
 <!--[](https://komarev.com/ghpvc/?username=AnshhSingh&color=blueviolet&style=plastic)--,>
 <!--
 **AnshhSingh/AnshhSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
